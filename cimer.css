@@ -55,4 +55,5 @@ img{
 
 #teljes{
   float:right;
+ min-width: 280px;
 }
